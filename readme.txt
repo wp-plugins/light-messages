@@ -28,15 +28,11 @@ More features to be added soon.
 == Installation ==
 
 Manual installation
-1. Upload the plugin .zip file to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+*	Upload the plugin .zip file to the `/wp-content/plugins/` directory
+*	Activate the plugin through the 'Plugins' menu in WordPress
 
 Automatic installation
-Look for the plugin via the Plugins tab in your WordPress tab and simply install it.
-
-== Frequently Asked Questions ==
-
-= What about foo bar? =
+*       Look for the plugin via the Plugins tab in your WordPress tab and simply install it.
 
 == Screenshots ==
 
@@ -49,7 +45,3 @@ Look for the plugin via the Plugins tab in your WordPress tab and simply install
 == Changelog ==
 = 1.0 =
 * Release
-
-== Arbitrary section ==
-
-== A brief Markdown Example ==
