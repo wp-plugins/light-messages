@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors:
+Contributors: eligiv
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UP6A43V5NCDVU
 Tags: lightbox, overlay, message, welcome, layer, popup
 Requires at least: 4.2.2
@@ -32,7 +32,7 @@ More features to be added soon.
 1. Upload the plugin .zip file to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
-= Automatic installation =
+= Automatic installation: =
 1. Look for the plugin via the Plugins tab in your WordPress tab and simply install it.
 
 == Screenshots ==
