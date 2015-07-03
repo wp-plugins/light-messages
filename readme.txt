@@ -27,21 +27,21 @@ More features to be added soon.
 
 == Installation ==
 
-Manual installation:
+= Manual installation: =
 
-*	Upload the plugin .zip file to the `/wp-content/plugins/` directory
-*	Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload the plugin .zip file to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
 
-Automatic installation
-*       Look for the plugin via the Plugins tab in your WordPress tab and simply install it.
+= Automatic installation =
+1. Look for the plugin via the Plugins tab in your WordPress tab and simply install it.
 
 == Screenshots ==
 
-1. Full plugin preview `/assets/preview.jpg`
-2. Genral settings `/assets/setting.png`
-3. Control the box effects `/assets/effects.png`
-4. Customize pre-defined styles `/assets/customize.png`
-5. Easy tool to set position relative to the screen `/assets/position.png`
+1. Genral settings.
+2. Control the box effects.
+3. Customize pre-defined styles.
+4. Easy tool to set position relative to the screen.
+5. Full plugin preview.
  
 == Changelog ==
 = 1.0 =
