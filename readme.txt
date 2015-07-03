@@ -13,21 +13,22 @@ Light Message plugin allowing you to welcome your users with customized messages
 
 Plugin features:
 
-*	Frequency: chose any interval  to show your layers and messages basing on the user’s cookies.
+*	Frequency: chose any interval  to show your layers and messages basing on the userâ€™s cookies.
 *	Pick where to show the message (homepage, pages, tags, posts, etc.)
 *	Message content can be displayed as Rich Text format, images, html code, forms and pre-made templates (coming soon)
 *	Effects: Use built in effect as fading box, fading backgrounds, opacity and custom CSS (coming soon)
 *	Customize your messages easily with the verity pre-made templates (pure CSS)
 *	Simply drag and drop your message box in a unique self-made position tool, for your convenience, and pick the exact screen position you want to display your messages.
 *	Make multiple changes between the plugin tabs with a single save button.
-*	Use the ‘Live preview’ button to display your changes without affecting your live-running website.
+*	Use the â€˜Live previewâ€™ button to display your changes without affecting your live-running website.
 
 More features to be added soon.
 
 
 == Installation ==
 
-Manual installation
+Manual installation:
+
 *	Upload the plugin .zip file to the `/wp-content/plugins/` directory
 *	Activate the plugin through the 'Plugins' menu in WordPress
 
