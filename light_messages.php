@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Light Messages
-Plugin URI: http://wordpress.org/plugins/hello-dolly/
+Plugin URI: https://wordpress.org/plugins/light-messages/
 Description: Light Message plugin allowing you to welcome your users with customized messages from image to text and other various elements.
 Author: Eliran Givoni
 Version: 1.0
