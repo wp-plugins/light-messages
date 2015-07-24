@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: eligiv
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UP6A43V5NCDVU
-Tags: lightbox, overlay, message, welcome, layer, popup, visitors
+Tags: lightbox, overlay, message, welcome, layer, popup, visitors, jquery, custom, note
 Requires at least: 3.1.0
 Tested up to: 4.2.2
 License: GPLv2 or later
